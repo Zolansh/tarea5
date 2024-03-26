@@ -1,8 +1,23 @@
 {
     "usuario":[
         {
-            "User":"fares",
-            "Password":"fares123"
-        }
+        "Id":"1",
+            "Descripcion":"mouse",
+            "Precio":"30.00",
+            "Imagen":"https://rymportatiles.com.pe/cdn/shop/files/Mouse-Logitech-G203-lila.jpg"
+        },
+        {
+            "Id":"2",
+                "Descripcion":"teclado",
+                "Precio":"30.00",
+                "Imagen":"https://www.lg.com/cac/images/monitores/md07567402/gallery/MZ-1.jpg"
+            },        {
+                "Id":"3",
+                    "Descripcion":"pantalla",
+                    "Precio":"30.00",
+                    "Imagen":"https://www.chuwi.com/public/upload/image/20230208/f3bb643dcd24141261324785d0c8523b.jpg"
+                }
+
+
     ]
 }
